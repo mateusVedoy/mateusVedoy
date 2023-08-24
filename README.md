@@ -26,6 +26,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="52" alt="golang logo"  />
 </div>
 
+<br />
+
 <h3>My stats</h3>
 
 <div align="center">
