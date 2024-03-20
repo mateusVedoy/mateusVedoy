@@ -1,5 +1,5 @@
 # 👋 Hey you! Hi there, I’m Vedoy
-- 👀 I’m currently interested in backend development specially using NodeJS and Java.
+- 👀 I’m currently interested in backend development specially using NodeJS, Java and Golang.
 - 🌱 At moment I am software developer in uMovMe using JS, NodeJS, Java and Golang.
 - 💞️ I’m looking to collaborate to anyone who needs help or wants to grow.
 - 📫 You can reach me by vedoymateus.contato@gmail.com or mateusvedoy@outlook.com
