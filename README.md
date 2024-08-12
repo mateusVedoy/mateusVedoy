@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate to anyone who needs help or wants to grow.
 - 📫 You can reach me by vedoymateus.contato@gmail.com or mateusvedoy@outlook.com
 
+<br/>
+
 <h3>Technologies I'm working with</h3>
 
   <div align="center">
